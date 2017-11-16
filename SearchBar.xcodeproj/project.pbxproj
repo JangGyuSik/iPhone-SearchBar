@@ -14,6 +14,7 @@
 		144323F01FBD543100F225D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 144323EE1FBD543100F225D1 /* LaunchScreen.storyboard */; };
 		144323FB1FBD543100F225D1 /* SearchBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 144323FA1FBD543100F225D1 /* SearchBarTests.swift */; };
 		144324061FBD543100F225D1 /* SearchBarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 144324051FBD543100F225D1 /* SearchBarUITests.swift */; };
+		144324141FBD661300F225D1 /* Twice.json in Resources */ = {isa = PBXBuildFile; fileRef = 144324131FBD661300F225D1 /* Twice.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		144324011FBD543100F225D1 /* SearchBarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SearchBarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		144324051FBD543100F225D1 /* SearchBarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarUITests.swift; sourceTree = "<group>"; };
 		144324071FBD543100F225D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		144324131FBD661300F225D1 /* Twice.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Twice.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				144323EC1FBD543100F225D1 /* Assets.xcassets */,
 				144323EE1FBD543100F225D1 /* LaunchScreen.storyboard */,
 				144323F11FBD543100F225D1 /* Info.plist */,
+				144324131FBD661300F225D1 /* Twice.json */,
 			);
 			path = SearchBar;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			files = (
 				144323F01FBD543100F225D1 /* LaunchScreen.storyboard in Resources */,
 				144323ED1FBD543100F225D1 /* Assets.xcassets in Resources */,
+				144324141FBD661300F225D1 /* Twice.json in Resources */,
 				144323EB1FBD543100F225D1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
